@@ -2,3 +2,5 @@
 Milk
 Curd
 Pickle
+Vegetables
+Fruits
