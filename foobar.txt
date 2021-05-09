@@ -1,7 +1,6 @@
 # Groceries list
 Milk
 Curd
-Pickle
 Vegetables
 Fruits
 Flowers
