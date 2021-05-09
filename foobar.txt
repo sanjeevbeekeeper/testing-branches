@@ -1,1 +1,4 @@
-Groceries list
+# Groceries list
+Milk
+Curd
+Pickle
