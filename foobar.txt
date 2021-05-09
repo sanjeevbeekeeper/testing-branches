@@ -4,6 +4,8 @@ Curd
 Vegetables
 Fruits
     Banana
+    Apple
+    Orange
 Flowers
 Rice
 Oats
