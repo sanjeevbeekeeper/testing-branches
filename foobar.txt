@@ -2,7 +2,6 @@
 Milk
 Curd
 Vegetables
-    Potato
     Onion
 Fruits
     Banana
