@@ -2,7 +2,6 @@
 Milk
 Curd
 Vegetables
-    Tomato
     Potato
     Onion
 Fruits
