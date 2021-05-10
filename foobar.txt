@@ -5,6 +5,7 @@ Vegetables
 Fruits
     Banana
     Orange
+    Papaya
 Flowers
 Rice
 Oats
