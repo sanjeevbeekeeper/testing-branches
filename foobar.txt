@@ -4,6 +4,7 @@ Curd
 Vegetables
     Tomato
     Banana
+    Potato
 Fruits
     Banana
     Orange
