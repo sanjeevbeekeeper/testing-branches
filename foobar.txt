@@ -5,6 +5,7 @@ Vegetables
     Tomato
     Banana
     Potato
+    Onion
 Fruits
     Banana
     Orange
